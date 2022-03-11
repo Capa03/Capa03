@@ -1,7 +1,7 @@
 ### Olá! Eu sou David Capa!
 
 
-- 🌱 Estudando Java e MySQL;
+- 🌱 Working on my first Mobile Project
 ##
 
 <div align="center">
