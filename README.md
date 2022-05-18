@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=capa03&show_icons=true&locale=en" alt="capa03" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=capa03&show_icons=true&locale=en&layout=compact" alt="capa03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=capa03&show_icons=true&locale=en&layout=compact" alt="capa03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capa03&" alt="capa03" /></p>
 <p align="left">
