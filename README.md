@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Capa</h1>
-- 🔭 I’m currently working on **Five Meals Mobile Project**
+- 🔭 I’m currently working on **Five Meals Project**
 
-- 🌱 I’m currently learning **Javascript, Node Js**
+- 🌱 I’m currently learning **Angular and TypeScript**
 
 - 💬 Ask me about **Java**
 
